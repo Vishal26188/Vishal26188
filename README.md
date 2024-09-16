@@ -7,7 +7,7 @@ Frontend Developer
 
 
 *   🌍  I'm based in Mumbai
-*   🖥️  See my portfolio at [here](https://vishalprajapati.netlify.app/)
+*   🖥️  See my portfolio at [here](https://vishal-prajapati-portfolio.netlify.app)
 *   ✉️  You can contact me at [vishalpraj188@gmail.com](mailto:vishalpraj188@gmail.com)
 *   🧠  I'm learning React
 ### Skills
